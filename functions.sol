@@ -9,3 +9,15 @@ contract Simplecon{
 
     calcs(4, 5);
 }
+
+
+//operators 
+uint a = 2;
+uint b= 4;
+uint c = a%b 
+
+//logical
+bool hasMoney =!false;
+//bitwise op
+bytes1 contractvalue = 0x02 & 0x01;
+
